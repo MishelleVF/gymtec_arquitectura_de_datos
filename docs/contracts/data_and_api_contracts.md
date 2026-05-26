@@ -1,9 +1,9 @@
 # Tarea 1 — Contratos de datos y endpoints GYMTEC
 
-**Proyecto:** GYMTEC  
-**Fase:** Arquitectura de solución de datos / MLOps  
-**Responsable principal:** Mish  
-**Estado:** Propuesta inicial para MVP  
+**Proyecto:** GYMTEC
+**Fase:** Arquitectura de solución de datos / MLOps
+**Responsable principal:** Mish
+**Estado:** Propuesta inicial para MVP
 **Ruta sugerida en el repositorio:** `docs/contracts/data_and_api_contracts.md`
 
 ---
@@ -676,8 +676,8 @@ Sin embargo, para el MVP no conviene crear demasiados issues pequeños. Lo ideal
 
 ### Issue: Definir contratos de datos y endpoints del MVP
 
-**Labels sugeridos:** `architecture`, `data-contracts`, `mvp`  
-**Responsable:** Mish  
+**Labels sugeridos:** `architecture`, `data-contracts`, `mvp`
+**Responsable:** Mish
 **Prioridad:** Alta
 
 ```markdown
